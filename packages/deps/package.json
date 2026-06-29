@@ -145,7 +145,7 @@
     "glob": "7.1.6",
     "got": "9.6.0",
     "html-entities": "1.4.0",
-    "http-proxy-middleware": "1.0.6",
+    "http-proxy-middleware": "2.0.10",
     "immer": "8.0.1",
     "joi2types": "1.1.0",
     "less": "3.12.2",
